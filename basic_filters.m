@@ -2,7 +2,7 @@
 %filters: 1. Low Pass Smoothing Filter 2. Median Filter, 3. Basic High Pass
 %Filter, 4. High pass filter from original image and smoothed filter
 %output 5. High Boost Filter, 6. Derivative Filters for Roberts, Prewitts &
-%Sobel Operators. for any questions email me at:  samudrala.naren@gmail.com
+
 tic
 clc;
 clear all;
