@@ -120,9 +120,3 @@ for i = 1:m
 end
 figure;
 imshow([b out]);title('input image                 output image');
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Program developed by : Jagadeesh Samudrala, Asst. Prof, Dept. of ECE,
-% Aditya Engineering College, Surampalem, East Godavari Dist, Andhra
-% Pradesh, India.
-% for any Questions mail me at: samudrala.naren@gmail.com
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
