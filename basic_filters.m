@@ -1,7 +1,7 @@
 %in this matlab program you will find the a single code for the following
 %filters: 1. Low Pass Smoothing Filter 2. Median Filter, 3. Basic High Pass
 %Filter, 4. High pass filter from original image and smoothed filter
-%output 5. High Boost Filter, 6. Derivative Filters for Roberts, Prewitts &
+%output 5. High Boost Filter
 
 tic
 clc;
